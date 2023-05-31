@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 5566,
+    "country": "Brasil",
+    "league": "Brasileirão Série A"
+  },
+  {
+    "id": 4995,
+    "country": "Brasil",
+    "league": "Copa do Brasil"
+  },
+  {
+    "id": 5567,
+    "country": "Brasil",
+    "league": "Brasileirão Série B"
+  },
+  {
+    "id": 10257,
+    "country": "Brasil",
+    "league": "Brasil. Série C."
+  },
+  {
+    "id": 15428,
+    "country": "Brasil",
+    "league": "Brasil. Série D."
+  },
+  {
+    "id": 14439,
+    "country": "Brasil",
+    "league": "Brasil. Paulistão. SérieB."
+  },
+  {
+    "id": 12034,
+    "country": "Brasil",
+    "league": "Brasil. Paulistão. Sub20."
+  },
+  {
+    "id": 23213,
+    "country": "Brasil",
+    "league": "Brasil. Carioca B. Sub20"
+  },
+  {
+    "id": 14492,
+    "country": "Brasil",
+    "league": "Brasil. Gaúcho. 2ª Divisão."
+  },
+  {
+    "id": 31758,
+    "country": "Brasil",
+    "league": "Brasil. Carioca A2."
+  },
+  {
+    "id": 19407,
+    "country": "Brasil",
+    "league": "Brasil. Catarinense. 2ª Divisão."
+  },
+  {
+    "id": 20183,
+    "country": "Brasil",
+    "league": "Brasil. Mineiro. 2ª Divisão."
+  },
+  {
+    "id": 6036,
+    "country": "Brasil",
+    "league": "Brasil. Mineiro. Sub20."
+  },
+  {
+    "id": 40418,
+    "country": "Brasil",
+    "league": "Brazilian Cup. Outrights"
+  },
+  {
+    "id": 10694,
+    "country": "Brasil",
+    "league": "Fem. Brasileirão."
+  },
+  {
+    "id": 4584,
+    "country": "Europa",
+    "league": "Liga dos Campeões"
+  },
+  {
+    "id": 4230,
+    "country": "Europa",
+    "league": "Europa League"
+  },
+  {
+    "id": 32050,
+    "country": "Europa",
+    "league": "Conference League."
+  },
+  {
+    "id": 5037,
+    "country": "Europa",
+    "league": "Fem. Liga dos Campeões."
+  },
+  {
+    "id": 4592,
+    "country": "Europa",
+    "league": "Euro 2023"
+  },
+  {
+    "id": 22433,
+    "country": "Europa",
+    "league": "Nations League."
+  },
+  {
+    "id": 4895,
+    "country": "Europa",
+    "league": "Euro Sub21."
+  },
+  {
+    "id": 4485,
+    "country": "Inglaterra",
+    "league": "Premier League"
+  },
+  {
+    "id": 4633,
+    "country": "Inglaterra",
+    "league": "Inglaterra. Premier League. Numeros de Rodada."
+  },
+  {
+    "id": 4604,
+    "country": "Inglaterra",
+    "league": "Inglaterra. Championship."
+  },
+  {
+    "id": 4247,
+    "country": "Inglaterra",
+    "league": "Inglaterra. FA Copa"
+  },
+  {
+    "id": 4634,
+    "country": "Inglaterra",
+    "league": "Inglaterra. League 1."
+  },
+  {
+    "id": 4635,
+    "country": "Inglaterra",
+    "league": "Inglaterra. League 2."
+  },
+  {
+    "id": 5245,
+    "country": "Inglaterra",
+    "league": "Fem. Inglaterra. SuperLiga."
+  },
+  {
+    "id": 4486,
+    "country": "Espanha",
+    "league": "La Liga"
+  },
+  {
+    "id": 4572,
+    "country": "Espanha",
+    "league": "Espanha. La Liga. Numeros de Rodada"
+  },
+  {
+    "id": 4567,
+    "country": "Espanha",
+    "league": "Espanha. Segunda Division."
+  },
+  {
+    "id": 36130,
+    "country": "Espanha",
+    "league": "Espanha.  Segunda Division RFEF."
+  },
+  {
+    "id": 32814,
+    "country": "Espanha",
+    "league": "Espanha. Primera Divisão. Grupo 1"
+  },
+  {
+    "id": 32815,
+    "country": "Espanha",
+    "league": "Espanha. Primera Divisão. Grupo 2"
+  },
+  {
+    "id": 5890,
+    "country": "Espanha",
+    "league": "Espanha. Terceira Divisão"
+  },
+  {
+    "id": 8905,
+    "country": "Espanha",
+    "league": "Fem. Espanha. Copa del Rey."
+  },
+  {
+    "id": 37802,
+    "country": "Espanha",
+    "league": "Women. Spain. Primera Federacion"
+  },
+  {
+    "id": 4484,
+    "country": "Itália",
+    "league": "Série A "
+  },
+  {
+    "id": 30599,
+    "country": "Itália",
+    "league": "Itália. Primavera 1."
+  },
+  {
+    "id": 4504,
+    "country": "Itália",
+    "league": "Itália. Série B."
+  },
+  {
+    "id": 21763,
+    "country": "Itália",
+    "league": "Itália. Primavera 2"
+  },
+  {
+    "id": 33597,
+    "country": "Itália",
+    "league": "Itália. Primavera 4."
+  },
+  {
+    "id": 19539,
+    "country": "Itália",
+    "league": "Fem. Itália. Série A."
+  },
+  {
+    "id": 29091,
+    "country": "Itália",
+    "league": "Itália. Série C."
+  },
+  {
+    "id": 4610,
+    "country": "França",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 15308,
+    "country": "França",
+    "league": "França. Ligue1. Vencedor."
+  },
+  {
+    "id": 4631,
+    "country": "França",
+    "league": "França. Ligue 1. Numeros de Rodada"
+  },
+  {
+    "id": 4523,
+    "country": "França",
+    "league": "França. Ligue 2."
+  },
+  {
+    "id": 33040,
+    "country": "França",
+    "league": "França. National Ligue 2."
+  },
+  {
+    "id": 22771,
+    "country": "França",
+    "league": "França. National Ligue 3."
+  },
+  {
+    "id": 39675,
+    "country": "França",
+    "league": "Women. France. 1st Division"
+  },
+  {
+    "id": 4565,
+    "country": "Portugal",
+    "league": "Portugal. Primeira Divisão."
+  },
+  {
+    "id": 4556,
+    "country": "Portugal",
+    "league": "Portugal. Copa."
+  },
+  {
+    "id": 8110,
+    "country": "Portugal",
+    "league": "Portugal. Segunda Liga."
+  },
+  {
+    "id": 7675,
+    "country": "Portugal",
+    "league": "Portugal. Liga Sub19"
+  },
+  {
+    "id": 20530,
+    "country": "Portugal",
+    "league": "Fem. Portugal. Copa."
+  },
+  {
+    "id": 4261,
+    "country": "Alemanha",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 4512,
+    "country": "Alemanha",
+    "league": "Alemanha. BundesLiga. Numeros de Rodada."
+  },
+  {
+    "id": 5880,
+    "country": "Alemanha",
+    "league": "Alemanha. BundesLiga. Vencedor"
+  },
+  {
+    "id": 4543,
+    "country": "Alemanha",
+    "league": "Alemanha. DFB Copa."
+  },
+  {
+    "id": 4544,
+    "country": "Alemanha",
+    "league": "Alemanha. BundesLiga 2."
+  },
+  {
+    "id": 24775,
+    "country": "Alemanha",
+    "league": "Alemanha. BundesLiga 2. Vencedor"
+  },
+  {
+    "id": 4545,
+    "country": "Alemanha",
+    "league": "Alemanha. BundesLiga 3."
+  },
+  {
+    "id": 6333,
+    "country": "Alemanha",
+    "league": "Alemanha. Liga Regional. Bayern"
+  },
+  {
+    "id": 6291,
+    "country": "Alemanha",
+    "league": "Alemanha. Liga Regional. Norte"
+  },
+  {
+    "id": 8344,
+    "country": "Alemanha",
+    "league": "Alemanha. Liga Regional. Nordeste"
+  },
+  {
+    "id": 8215,
+    "country": "Alemanha",
+    "league": "Alemanha. Liga Regional. Sudoeste"
+  },
+  {
+    "id": 9104,
+    "country": "Alemanha",
+    "league": "Alemanha. OberLiga Bayern"
+  },
+  {
+    "id": 7334,
+    "country": "Alemanha",
+    "league": "Alemanha. OberLiga Baden-Wurttemberg"
+  },
+  {
+    "id": 9833,
+    "country": "Alemanha",
+    "league": "Alemanha. OberLiga Hessen"
+  },
+  {
+    "id": 9750,
+    "country": "Alemanha",
+    "league": "Alemanha. OberLiga Rheinland-Pfalz Saar"
+  },
+  {
+    "id": 33104,
+    "country": "Alemanha",
+    "league": "Alemanha. State Liga."
+  },
+  {
+    "id": 9169,
+    "country": "Alemanha",
+    "league": "Alemanha. OberLiga NOFV. Norte"
+  },
+  {
+    "id": 4564,
+    "country": "Argentina",
+    "league": "Argentina. Primeira Divisão."
+  },
+  {
+    "id": 5192,
+    "country": "Argentina",
+    "league": "Argentina. Nacional B"
+  },
+  {
+    "id": 7949,
+    "country": "Argentina",
+    "league": "Argentina. Primera B Metropolitana"
+  },
+  {
+    "id": 11963,
+    "country": "Argentina",
+    "league": "Argentina. Primera C Metropolitana"
+  },
+  {
+    "id": 8091,
+    "country": "Argentina",
+    "league": "Argentina. Primeira Divisão. Reservas."
+  },
+  {
+    "id": 41498,
+    "country": "Argentina",
+    "league": "Argentina. Primeira Divisão. Resultados"
+  },
+  {
+    "id": 14870,
+    "country": "Argentina",
+    "league": "Fem. Argentina. Primeira Divisão."
+  },
+  {
+    "id": 5284,
+    "country": "Colômbia",
+    "league": "Colômbia. Primera A."
+  },
+  {
+    "id": 6344,
+    "country": "Colômbia",
+    "league": "Colômbia. Primera B"
+  },
+  {
+    "id": 4547,
+    "country": "México",
+    "league": "México. Primeira Divisão."
+  },
+  {
+    "id": 21318,
+    "country": "México",
+    "league": "Fem. México. Liga MX."
+  },
+  {
+    "id": 29375,
+    "country": "México",
+    "league": "México. Liga de Expansion."
+  },
+  {
+    "id": 33789,
+    "country": "México",
+    "league": "México. TDP."
+  },
+  {
+    "id": 6002,
+    "country": "Chile",
+    "league": "Chile. Primera B"
+  },
+  {
+    "id": 10576,
+    "country": "Chile",
+    "league": "Chile. Segunda Divisão."
+  },
+  {
+    "id": 18626,
+    "country": "Chile",
+    "league": "Chile. Terceira Divisão."
+  },
+  {
+    "id": 4535,
+    "country": "Holanda",
+    "league": "Países Baixos. Eredivisie"
+  },
+  {
+    "id": 4618,
+    "country": "Holanda",
+    "league": "Países Baixos. Eerste Divisie"
+  },
+  {
+    "id": 19222,
+    "country": "Holanda",
+    "league": "Países Baixos. Tweede."
+  },
+  {
+    "id": 4550,
+    "country": "Bélgica",
+    "league": "Bélgica. Jupiler Pro League."
+  },
+  {
+    "id": 36667,
+    "country": "Bélgica",
+    "league": "Belgium. First Division A. Outright"
+  },
+  {
+    "id": 19214,
+    "country": "Bélgica",
+    "league": "Bélgica. 1ª Liga Amadora."
+  },
+  {
+    "id": 4520,
+    "country": "Turquia",
+    "league": "Turquia. Super Lig"
+  },
+  {
+    "id": 5072,
+    "country": "Turquia",
+    "league": "Turquia. Copa."
+  },
+  {
+    "id": 4241,
+    "country": "Austrália",
+    "league": "Austrália. A-Liga."
+  },
+  {
+    "id": 5674,
+    "country": "Austrália",
+    "league": "Austrália. South Premier League."
+  },
+  {
+    "id": 5812,
+    "country": "Austrália",
+    "league": "Austrália. Liga Western Premier"
+  },
+  {
+    "id": 5675,
+    "country": "Austrália",
+    "league": "Austrália. NPL. NSW"
+  },
+  {
+    "id": 12188,
+    "country": "Austrália",
+    "league": "Austrália. Primeira Divisão da Tasmânia"
+  },
+  {
+    "id": 35677,
+    "country": "Austrália",
+    "league": "Australia. NPL. Nortern NSW. Reserves"
+  },
+  {
+    "id": 40431,
+    "country": "Austrália",
+    "league": "Australia. QLD Pro Series"
+  },
+  {
+    "id": 41189,
+    "country": "Austrália",
+    "league": "Australia. TAS NPL Youth"
+  },
+  {
+    "id": 29164,
+    "country": "Austrália",
+    "league": "Austrália. Capital Territory Sub23."
+  },
+  {
+    "id": 20645,
+    "country": "Austrália",
+    "league": "Austrália. Darwin Primeira Divisão"
+  },
+  {
+    "id": 35761,
+    "country": "Austrália",
+    "league": "Austrália. FNSW. League 1."
+  },
+  {
+    "id": 35764,
+    "country": "Austrália",
+    "league": "Austrália. FNSW. League 1. Sub20."
+  },
+  {
+    "id": 35669,
+    "country": "Austrália",
+    "league": "Austrália. FQPL 3. South Coast."
+  },
+  {
+    "id": 8640,
+    "country": "Austrália",
+    "league": "Austrália. NPL. NSW. U20"
+  },
+  {
+    "id": 30853,
+    "country": "Austrália",
+    "league": "Austrália. NPL. VPL. Sub21."
+  },
+  {
+    "id": 15329,
+    "country": "Austrália",
+    "league": "Austrália. Norte  NSW"
+  },
+  {
+    "id": 9066,
+    "country": "Austrália",
+    "league": "Austrália. Primeira Divisão. Capital."
+  },
+  {
+    "id": 27552,
+    "country": "Austrália",
+    "league": "Austrália. South. State League"
+  },
+  {
+    "id": 18917,
+    "country": "Austrália",
+    "league": "Austrália. VPL. 2ª Divisão."
+  },
+  {
+    "id": 31024,
+    "country": "Austrália",
+    "league": "Austrália. VPL. 2ª Divisão. Sub21."
+  },
+  {
+    "id": 31023,
+    "country": "Austrália",
+    "league": "Austrália. VPL. 3ª Divisão."
+  },
+  {
+    "id": 17901,
+    "country": "Austrália",
+    "league": "Austrália. VPL. Campeonato U20"
+  },
+  {
+    "id": 18319,
+    "country": "Austrália",
+    "league": "Austrália. Victoria State 1a Divisão"
+  },
+  {
+    "id": 14412,
+    "country": "Austrália",
+    "league": "Austrália. Victorian Primeira Divisão"
+  },
+  {
+    "id": 29040,
+    "country": "Austrália",
+    "league": "Austrália. Western State League 1."
+  },
+  {
+    "id": 23538,
+    "country": "Austrália",
+    "league": "Fem. Austrália. NPL Queensland."
+  },
+  {
+    "id": 35842,
+    "country": "Austrália",
+    "league": "Fem. Austrália. NPL. Victoria."
+  },
+  {
+    "id": 31418,
+    "country": "Austrália",
+    "league": "Fem. Austrália. NSW NPL."
+  },
+  {
+    "id": 31123,
+    "country": "Austrália",
+    "league": "Fem. Austrália. NSW NPL. Northern."
+  },
+  {
+    "id": 20750,
+    "country": "Austrália",
+    "league": "Fem. Austrália. Ocidental. Primeira Divisão."
+  },
+  {
+    "id": 18727,
+    "country": "Austrália",
+    "league": "Fem. Austrália. Primeira Divisão. Capital."
+  },
+  {
+    "id": 18135,
+    "country": "Austrália",
+    "league": "Fem. Austrália. Primeira Divisão. Sul-Australiana."
+  },
+  {
+    "id": 15912,
+    "country": "Austrália",
+    "league": "Fem. Austrália. Tasmânia. Primeira Divisão."
+  },
+  {
+    "id": 25455,
+    "country": "Austrália",
+    "league": "Feminino. Austrália. Primeira Divisão do Sul. Reservas"
+  },
+  {
+    "id": 8118,
+    "country": "Austrália",
+    "league": "NPL. SASL. (Reserva)"
+  },
+  {
+    "id": 27612,
+    "country": "Austrália",
+    "league": "South State League 2"
+  },
+  {
+    "id": 17932,
+    "country": "Austrália",
+    "league": "Sul-Australiana Primeira Divisão. Reserva"
+  },
+  {
+    "id": 31171,
+    "country": "Austrália",
+    "league": "Western Australia State league 1. Reserves"
+  },
+  {
+    "id": 9239,
+    "country": "Mundo",
+    "league": "Copa do Mundo. Sub20"
+  },
+  {
+    "id": 15112,
+    "country": "Mundo",
+    "league": "Bola de Ouro. Vencedor"
+  },
+  {
+    "id": 5713,
+    "country": "Uruguai",
+    "league": "Uruguai. Segunda Divisão."
+  },
+  {
+    "id": 4920,
+    "country": "Romênia",
+    "league": "Roménia. Liga 1"
+  },
+  {
+    "id": 5213,
+    "country": "Romênia",
+    "league": "Roménia. Liga 3"
+  },
+  {
+    "id": 29578,
+    "country": "Romênia",
+    "league": "Roménia. Liga3. Grupo 5"
+  },
+  {
+    "id": 29579,
+    "country": "Romênia",
+    "league": "Roménia. Liga3. Grupo 6"
+  },
+  {
+    "id": 4724,
+    "country": "Suíça",
+    "league": "Suíça. SuperLiga."
+  },
+  {
+    "id": 4841,
+    "country": "Suíça",
+    "league": "Suíça. Challenge Liga."
+  },
+  {
+    "id": 8559,
+    "country": "Suíça",
+    "league": "Suíça. Promoção Liga."
+  },
+  {
+    "id": 16136,
+    "country": "Suíça",
+    "league": "Suíça. 4ª Divisão."
+  },
+  {
+    "id": 12381,
+    "country": "Suíça",
+    "league": "Fem. Suíça. SuperLiga."
+  },
+  {
+    "id": 40844,
+    "country": "Suíça",
+    "league": "Women. Switzerland. 2rd Division"
+  },
+  {
+    "id": 4702,
+    "country": "Suécia",
+    "league": "Suécia. Allsvenskan."
+  },
+  {
+    "id": 5210,
+    "country": "Suécia",
+    "league": "Suécia. Superettan."
+  },
+  {
+    "id": 5423,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 1. Norra"
+  },
+  {
+    "id": 5461,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 1. Sodra"
+  },
+  {
+    "id": 5435,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Vastra Gotaland."
+  },
+  {
+    "id": 9267,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Norra Gotaland."
+  },
+  {
+    "id": 5658,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Norra Svealand."
+  },
+  {
+    "id": 5702,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Norrland."
+  },
+  {
+    "id": 5834,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Sodra Gotaland."
+  },
+  {
+    "id": 12231,
+    "country": "Suécia",
+    "league": "Suécia. Divisão 2. Sodra Svealand."
+  },
+  {
+    "id": 12076,
+    "country": "Suécia",
+    "league": "Fem. Suécia. Elitettan."
+  },
+  {
+    "id": 4957,
+    "country": "Dinamarca",
+    "league": "Dinamarca. Superligaen"
+  },
+  {
+    "id": 5193,
+    "country": "Dinamarca",
+    "league": "Dinamarca. 1ª Divisão"
+  },
+  {
+    "id": 15732,
+    "country": "Dinamarca",
+    "league": "Dinamarca. 2ª Divisão"
+  },
+  {
+    "id": 5777,
+    "country": "Dinamarca",
+    "league": "Dinamarca. 3ª Divisão."
+  },
+  {
+    "id": 31920,
+    "country": "Dinamarca",
+    "league": "Dinamarca. 4ª Divisão."
+  },
+  {
+    "id": 19277,
+    "country": "Dinamarca",
+    "league": "Fem. Dinamarca. 1ª Divisão."
+  },
+  {
+    "id": 5778,
+    "country": "Dinamarca",
+    "league": "Fem. Dinamarca. EliteDivision."
+  },
+  {
+    "id": 5016,
+    "country": "Rússia",
+    "league": "Rússia. Primeira Divisão"
+  },
+  {
+    "id": 6163,
+    "country": "Rússia",
+    "league": "Rússia. Primeira Divisão. Numeros de Rodada."
+  },
+  {
+    "id": 4979,
+    "country": "Rússia",
+    "league": "Rússia. Copa."
+  },
+  {
+    "id": 5024,
+    "country": "Rússia",
+    "league": "Rússia. FNL.."
+  },
+  {
+    "id": 36128,
+    "country": "Rússia",
+    "league": "Fem. Rússia. SuperLeague."
+  },
+  {
+    "id": 5447,
+    "country": "Africa do Sul",
+    "league": "África do Sul. Copa."
+  },
+  {
+    "id": 25743,
+    "country": "Africa do Sul",
+    "league": "Fem. África do Sul. Primeira Divisão"
+  },
+  {
+    "id": 5002,
+    "country": "Japão",
+    "league": "Japão. J-Liga"
+  },
+  {
+    "id": 5380,
+    "country": "Japão",
+    "league": "Japão. J-Liga. 2a Divisão."
+  },
+  {
+    "id": 8894,
+    "country": "Japão",
+    "league": "Japão. J-Liga. 3a Divisão."
+  },
+  {
+    "id": 11832,
+    "country": "Japão",
+    "league": "Japão. J-Liga. 4a Divisão."
+  },
+  {
+    "id": 15420,
+    "country": "Japão",
+    "league": "Fem. Japão. 1ª Divisão."
+  },
+  {
+    "id": 33518,
+    "country": "Japão",
+    "league": "Fem. Japão. Empowerment League."
+  },
+  {
+    "id": 5057,
+    "country": "Paraguai",
+    "league": "Paraguai. Primeira Divisão"
+  },
+  {
+    "id": 4937,
+    "country": "Irlanda",
+    "league": "Irlanda. Primeira Divisão"
+  },
+  {
+    "id": 4938,
+    "country": "Irlanda",
+    "league": "Irlanda. 1ª Divisão"
+  },
+  {
+    "id": 16666,
+    "country": "Irlanda",
+    "league": "Fem. Irlanda. National League."
+  },
+  {
+    "id": 17605,
+    "country": "Irlanda",
+    "league": "Irlanda. Campeonato Sênior Leinster"
+  },
+  {
+    "id": 34332,
+    "country": "Grécia",
+    "league": "Greece. Super League 2"
+  },
+  {
+    "id": 39659,
+    "country": "Austria",
+    "league": "Austria. Bundesliga"
+  },
+  {
+    "id": 8970,
+    "country": "Austria",
+    "league": "Áustria. Liga Regional. Leste"
+  },
+  {
+    "id": 14482,
+    "country": "Austria",
+    "league": "Fem. Áustria. BundesLiga."
+  },
+  {
+    "id": 18367,
+    "country": "Austria",
+    "league": "Áustria. LandesLiga"
+  },
+  {
+    "id": 14935,
+    "country": "Austria",
+    "league": "Áustria. LandesLiga 2"
+  },
+  {
+    "id": 25933,
+    "country": "Austria",
+    "league": "Áustria. Liga Regional. Salzburg"
+  },
+  {
+    "id": 29410,
+    "country": "Austria",
+    "league": "Áustria. Liga Regional. Vorarlberg"
+  },
+  {
+    "id": 4847,
+    "country": "Polônia",
+    "league": "Polônia. Ekstraklasa."
+  },
+  {
+    "id": 5111,
+    "country": "Polônia",
+    "league": "Polônia. Liga I."
+  },
+  {
+    "id": 8739,
+    "country": "Polônia",
+    "league": "Polônia. Liga II."
+  },
+  {
+    "id": 8741,
+    "country": "Polônia",
+    "league": "Polônia. Liga III."
+  },
+  {
+    "id": 23029,
+    "country": "Polônia",
+    "league": "Polônia. Liga IV."
+  },
+  {
+    "id": 8899,
+    "country": "Polônia",
+    "league": "Fem. Polônia. Liga Siatkòwski."
+  },
+  {
+    "id": 9029,
+    "country": "Polônia",
+    "league": "Polônia. S19"
+  },
+  {
+    "id": 5046,
+    "country": "Coreia do Sul",
+    "league": "Coreia do Sul. K Classic Liga"
+  },
+  {
+    "id": 9223,
+    "country": "Coreia do Sul",
+    "league": "Coreia do Sul. K Challenge Liga"
+  },
+  {
+    "id": 5342,
+    "country": "Coreia do Sul",
+    "league": "Coreia do Sul. K1 League."
+  },
+  {
+    "id": 9120,
+    "country": "Coreia do Sul",
+    "league": "Coreia do Sul. K3 Liga"
+  },
+  {
+    "id": 4998,
+    "country": "Estados Unidos",
+    "league": "EUA. MLS."
+  },
+  {
+    "id": 39690,
+    "country": "Estados Unidos",
+    "league": "USA. MLS. Results"
+  },
+  {
+    "id": 35443,
+    "country": "Estados Unidos",
+    "league": "EUA. MLS Next Pro."
+  },
+  {
+    "id": 26243,
+    "country": "Estados Unidos",
+    "league": "EUA. NISA."
+  },
+  {
+    "id": 15002,
+    "country": "Estados Unidos",
+    "league": "EUA. NPSL."
+  },
+  {
+    "id": 11835,
+    "country": "Estados Unidos",
+    "league": "EUA. USL Pro"
+  },
+  {
+    "id": 24834,
+    "country": "Estados Unidos",
+    "league": "EUA. USL. 1st Division"
+  },
+  {
+    "id": 25210,
+    "country": "Estados Unidos",
+    "league": "EUA. USL. 2ª Divisão"
+  },
+  {
+    "id": 9204,
+    "country": "Estados Unidos",
+    "league": "Fem. EUA. NWSL."
+  },
+  {
+    "id": 36226,
+    "country": "Estados Unidos",
+    "league": "Fem. EUA. USLW."
+  },
+  {
+    "id": 15082,
+    "country": "Estados Unidos",
+    "league": "Fem. EUA. WPSL."
+  },
+  {
+    "id": 17499,
+    "country": "Marrocos",
+    "league": "Marrocos. 2ª Divisão"
+  },
+  {
+    "id": 5708,
+    "country": "Vietnã",
+    "league": "Vietnã. V-Liga"
+  },
+  {
+    "id": 19009,
+    "country": "Vietnã",
+    "league": "Vietnã. Liga V 2"
+  },
+  {
+    "id": 4921,
+    "country": "Bulgária",
+    "league": "Bulgária. 1ª Divisão"
+  },
+  {
+    "id": 5346,
+    "country": "Bolívia",
+    "league": "Bolívia. Primeira Divisão"
+  },
+  {
+    "id": 13280,
+    "country": "Croácia",
+    "league": "Croácia. 3.HNL"
+  },
+  {
+    "id": 37615,
+    "country": "Croácia",
+    "league": "Croatia. Prva HNL."
+  },
+  {
+    "id": 4830,
+    "country": "Croácia",
+    "league": "Croácia. 1.HNL."
+  },
+  {
+    "id": 10052,
+    "country": "Croácia",
+    "league": "Croácia. Sub19"
+  },
+  {
+    "id": 4596,
+    "country": "República Tcheca",
+    "league": "República Tcheca. 1 Liga"
+  },
+  {
+    "id": 5010,
+    "country": "República Tcheca",
+    "league": "República Tcheca. 2a Divisão."
+  },
+  {
+    "id": 6573,
+    "country": "República Tcheca",
+    "league": "República Tcheca. 3a Divisão."
+  },
+  {
+    "id": 9993,
+    "country": "República Tcheca",
+    "league": "República Tcheca. 4a Divisão."
+  },
+  {
+    "id": 20468,
+    "country": "República Tcheca",
+    "league": "Rep. Checa. Liga Regional"
+  },
+  {
+    "id": 6237,
+    "country": "República Tcheca",
+    "league": "República Tcheca. Ligs Sub19"
+  },
+  {
+    "id": 4953,
+    "country": "Sérvia",
+    "league": "Sérvia. SuperLiga."
+  },
+  {
+    "id": 5651,
+    "country": "Sérvia",
+    "league": "Sérvia. 1ª Divisão."
+  },
+  {
+    "id": 13572,
+    "country": "Sérvia",
+    "league": "Sérvia. Sub19."
+  },
+  {
+    "id": 9228,
+    "country": "Eslováquia",
+    "league": "Eslováquia. 3. Liga."
+  },
+  {
+    "id": 20662,
+    "country": "Escócia",
+    "league": "Escócia. Primeira Divisão"
+  },
+  {
+    "id": 4701,
+    "country": "Escócia",
+    "league": "Escócia. Copa."
+  },
+  {
+    "id": 18471,
+    "country": "Etiópia",
+    "league": "Etiópia. Primeira Divisão."
+  },
+  {
+    "id": 4557,
+    "country": "Arábia Saudita",
+    "league": "Arábia Saudita. Liga profissional"
+  },
+  {
+    "id": 4788,
+    "country": "Arábia Saudita",
+    "league": "Arábia Saudita. 1ª Divisão."
+  },
+  {
+    "id": 9763,
+    "country": "Tailândia",
+    "league": "Tailândia. Divisão 2 Liga."
+  },
+  {
+    "id": 26981,
+    "country": "India",
+    "league": "India. Meghalaya State Liga"
+  },
+  {
+    "id": 4574,
+    "country": "Egito",
+    "league": "Egito. 1ª Divisão"
+  },
+  {
+    "id": 4954,
+    "country": "Costa Rica",
+    "league": "Costa Rica. Primeira Divisão."
+  },
+  {
+    "id": 25413,
+    "country": "Costa Rica",
+    "league": "Fem. Costa Rica. Primeira Divisão."
+  },
+  {
+    "id": 5354,
+    "country": "Peru",
+    "league": "Peru. Primeira Divisão."
+  },
+  {
+    "id": 39709,
+    "country": "Hungria",
+    "league": "Hungaria. NB I"
+  },
+  {
+    "id": 5597,
+    "country": "Hungria",
+    "league": "Hungria. League. Sub19."
+  },
+  {
+    "id": 4617,
+    "country": "Chipre",
+    "league": "Chipre. 1ª Divisão."
+  },
+  {
+    "id": 13455,
+    "country": "Eslovênia",
+    "league": "Eslovênia. 3SNL."
+  },
+  {
+    "id": 5445,
+    "country": "Islândia",
+    "league": "Islândia. Primeira Divisão."
+  },
+  {
+    "id": 5817,
+    "country": "Islândia",
+    "league": "Islândia. 2ª Divisão."
+  },
+  {
+    "id": 5952,
+    "country": "Islândia",
+    "league": "Islândia. 3ª Divisão."
+  },
+  {
+    "id": 17974,
+    "country": "Islândia",
+    "league": "Fem. Islândia Copa."
+  },
+  {
+    "id": 23856,
+    "country": "América do Norte e Central",
+    "league": "Liga das Nações da CONCACAF"
+  },
+  {
+    "id": 5178,
+    "country": "Armênia",
+    "league": "Armênia. Primeira Divisão"
+  },
+  {
+    "id": 5364,
+    "country": "Belarus",
+    "league": "Copa Bielorrússia"
+  },
+  {
+    "id": 40955,
+    "country": "Belarus",
+    "league": "Belarus. Major League"
+  },
+  {
+    "id": 21039,
+    "country": "Camboja",
+    "league": "Camboja. Copa."
+  },
+  {
+    "id": 25183,
+    "country": "Canadá",
+    "league": "Canadá. Primeira Divisão."
+  },
+  {
+    "id": 5504,
+    "country": "Cazaquistão",
+    "league": "Cazaquistão. Primeira Divisão"
+  },
+  {
+    "id": 5052,
+    "country": "China",
+    "league": "China. Super League."
+  },
+  {
+    "id": 5638,
+    "country": "China",
+    "league": "China. 1a Divisão."
+  },
+  {
+    "id": 20193,
+    "country": "Cuba",
+    "league": "Cuba. Campeonato Nacional"
+  },
+  {
+    "id": 26888,
+    "country": "Equador",
+    "league": "Equador. Nacional."
+  },
+  {
+    "id": 33115,
+    "country": "Estônia",
+    "league": "Estônia. MeistriLiga."
+  },
+  {
+    "id": 12309,
+    "country": "Estônia",
+    "league": "Fem. Estônia. MeistriLiga."
+  },
+  {
+    "id": 8488,
+    "country": "Filipinas",
+    "league": "Filipinas. Primeira Divisão"
+  },
+  {
+    "id": 21308,
+    "country": "Ilhas Faroe",
+    "league": "Ilhas Faroe. 1a Divisão"
+  },
+  {
+    "id": 11148,
+    "country": "Jamaica",
+    "league": "Copa da Jamaica"
+  },
+  {
+    "id": 5237,
+    "country": "Letónia",
+    "league": "Letônia. VirsLiga"
+  },
+  {
+    "id": 5845,
+    "country": "Letónia",
+    "league": "Letônia. 1ª Divisão"
+  },
+  {
+    "id": 5232,
+    "country": "Lituânia",
+    "league": "Lituânia. A Lyga."
+  },
+  {
+    "id": 9027,
+    "country": "Lituânia",
+    "league": "Lituânia. 1ª Divisão."
+  },
+  {
+    "id": 10070,
+    "country": "Lituânia",
+    "league": "Lituânia. 2ª Divisão."
+  },
+  {
+    "id": 18596,
+    "country": "Lituânia",
+    "league": "Fem. Lituânia. A Lyga."
+  },
+  {
+    "id": 9867,
+    "country": "Luxemburgo",
+    "league": "Luxemburgo. Championship. "
+  },
+  {
+    "id": 16715,
+    "country": "Malawi",
+    "league": "Malawi. Primeira Divisão."
+  },
+  {
+    "id": 7918,
+    "country": "Malásia",
+    "league": "Malásia. Copa FA."
+  },
+  {
+    "id": 25809,
+    "country": "Malásia",
+    "league": "Malásia. Liga M3"
+  },
+  {
+    "id": 24452,
+    "country": "Mauritânia",
+    "league": "Mauritânia. Championship."
+  },
+  {
+    "id": 18724,
+    "country": "Mongólia",
+    "league": "Mongólia. Premier League"
+  },
+  {
+    "id": 17573,
+    "country": "Myanmar",
+    "league": "MyanMar . Primeira Divisão"
+  },
+  {
+    "id": 14427,
+    "country": "Nepal",
+    "league": "Nepal. Primeira Divisão."
+  },
+  {
+    "id": 5106,
+    "country": "Noruega",
+    "league": "Noruega. Eliteserien."
+  },
+  {
+    "id": 5222,
+    "country": "Noruega",
+    "league": "Noruega. 1 Divisão."
+  },
+  {
+    "id": 5451,
+    "country": "Noruega",
+    "league": "Noruega. 2 Divisão. Grupo 1."
+  },
+  {
+    "id": 5452,
+    "country": "Noruega",
+    "league": "Noruega. 2 Divisão. Grupo 2."
+  },
+  {
+    "id": 5729,
+    "country": "Noruega",
+    "league": "Noruega. 3 Divisão."
+  },
+  {
+    "id": 21626,
+    "country": "Noruega",
+    "league": "Noruega. 3a Divisão. Grupo  2"
+  },
+  {
+    "id": 21601,
+    "country": "Noruega",
+    "league": "Noruega. 3a Divisão. Grupo  3"
+  },
+  {
+    "id": 21693,
+    "country": "Noruega",
+    "league": "Noruega. 3a Divisão. Grupo  4"
+  },
+  {
+    "id": 21635,
+    "country": "Noruega",
+    "league": "Noruega. 3a Divisão. Grupo  6"
+  },
+  {
+    "id": 12075,
+    "country": "Noruega",
+    "league": "Fem. Noruega. 1ª Divisão."
+  },
+  {
+    "id": 5694,
+    "country": "Noruega",
+    "league": "Fem. Noruega. Toppserien."
+  },
+  {
+    "id": 5857,
+    "country": "Noruega",
+    "league": "Noruega. Elite Sub19."
+  },
+  {
+    "id": 41982,
+    "country": "Noruega",
+    "league": "Noruega. Elitserien. Vencedor final"
+  },
+  {
+    "id": 18562,
+    "country": "Nova Zelândia",
+    "league": "Nova Zelândia. Primeira Divisão Central"
+  },
+  {
+    "id": 9036,
+    "country": "Nova Zelândia",
+    "league": "Nova Zelândia. Primeira Divisão do Norte"
+  },
+  {
+    "id": 18498,
+    "country": "Nova Zelândia",
+    "league": "Nova Zelândia.Primeira Divisão Sulista"
+  },
+  {
+    "id": 9579,
+    "country": "Panamá",
+    "league": "Panamá. LPF."
+  },
+  {
+    "id": 18796,
+    "country": "República Dominicana",
+    "league": "República Dominicana. Liga"
+  },
+  {
+    "id": 10819,
+    "country": "San Marino",
+    "league": "San Marino. Copa Titano."
+  },
+  {
+    "id": 4768,
+    "country": "Singapura",
+    "league": "Singapura. Premier League."
+  },
+  {
+    "id": 9449,
+    "country": "Singapura",
+    "league": "Singapura. 1ª Divisão."
+  },
+  {
+    "id": 28132,
+    "country": "Taipei Chinês",
+    "league": "Taipei Chinês. Primeira Divisão."
+  },
+  {
+    "id": 5044,
+    "country": "Tunísia",
+    "league": "Tunísia. Liga Profissional 1."
+  },
+  {
+    "id": 14398,
+    "country": "Tunísia",
+    "league": "Tunísia. Liga Profissional 2."
+  },
+  {
+    "id": 4252,
+    "country": "Ucrânia",
+    "league": "Ucrânia. Vyscha Liga"
+  },
+  {
+    "id": 5168,
+    "country": "Ucrânia",
+    "league": "Ucrânia. 1ª Liga."
+  },
+  {
+    "id": 28905,
+    "country": "Uzbequistão",
+    "league": "Uzbequistão. Superleague."
+  },
+  {
+    "id": 21077,
+    "country": "Zimbábue",
+    "league": "Zimbábue. League 1."
+  },
+  {
+    "id": 25471,
+    "country": "Zâmbia",
+    "league": "Copa da Zâmbia"
+  }
+]
